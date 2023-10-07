@@ -1,8 +1,6 @@
 # Roman Numeral Converter
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Product Landing Page](https://github.com/dipintoo/freeCodeCamp_Product-Landing-Page) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!
-
-Selamat datang di proyek **Roman Numeral Converter**! Proyek ini bertujuan untuk mengonversi angka yang diberikan menjadi bentuk angka Romawi. Mari kita pelajari bagaimana angka Romawi bekerja dan bagaimana converter ini berfungsi.
+**SELAMAT!** kamu sudah berhasil menyelesaikan project pertama [Palindrome Checker](https://github.com/dipintoo/freeCodeCamp_Palindrome-Checker/tree/main). Sekarang kita lanjut ke project kedua dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) dari freeCodeCamp!
 
 ## Angka Romawi
 
@@ -26,7 +24,7 @@ Semua jawaban dalam angka Romawi harus dalam huruf besar.
 
 ## Bagaimana Converter Ini Bekerja
 
-Converter ini akan mengambil angka yang Anda berikan dan mengonversinya menjadi bentuk angka Romawi. Prosesnya melibatkan pengurangan angka Romawi yang sesuai dengan nilai tertentu hingga tidak mungkin lagi dilakukan pengurangan. Ini akan menghasilkan representasi angka Romawi yang benar sesuai dengan angka yang diberikan.
+Converter ini akan mengambil angka yang kamu berikan dan mengonversinya menjadi bentuk angka Romawi. Prosesnya melibatkan pengurangan angka Romawi yang sesuai dengan nilai tertentu hingga tidak mungkin lagi dilakukan pengurangan. Ini akan menghasilkan representasi angka Romawi yang benar sesuai dengan angka yang diberikan.
 
 ## Contoh
 
@@ -41,4 +39,12 @@ Berikut beberapa contoh konversi angka ke angka Romawi:
 
 Semua jawaban dalam huruf besar, seperti yang digunakan dalam angka Romawi tradisional.
 
-Gunakan Roman Numeral Converter ini untuk mengonversi angka Anda ke angka Romawi. Selamat mencoba! 🚀🏛️
+## Coding dan Testing
+
+Kamu bisa ngoding dan melakukan testing langsung di [Roman Numeral Converter project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter).  
+
+
+Semangat dan selamat mencoba! 🚀📜  
+
+
+[***Next Project - [3/5] Caesars Cipher >>***]()
