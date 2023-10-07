@@ -24,7 +24,7 @@ Semua jawaban dalam angka Romawi harus dalam huruf besar.
 
 ## Bagaimana Converter Ini Bekerja
 
-Converter ini akan mengambil angka yang kamu berikan dan mengonversinya menjadi bentuk angka Romawi. Prosesnya melibatkan pengurangan angka Romawi yang sesuai dengan nilai tertentu hingga tidak mungkin lagi dilakukan pengurangan. Ini akan menghasilkan representasi angka Romawi yang benar sesuai dengan angka yang diberikan.
+Converter ini akan mengambil angka yang kamu berikan dan mengonversinya menjadi bentuk angka Romawi. Prosesnya melibatkan pengurangan angka Romawi yang sesuai dengan nilai tertentu hingga tidak mungkin lagi dilakukan pengurangan. Ini akan menghasilkan representasi angka Romawi yang benar sesuai dengan angka yang diberikan. Hasil akan ditampilkan di **console**.
 
 ## Contoh
 
